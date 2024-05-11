@@ -1,4 +1,4 @@
-<h1 align="center"> Conversor de monedas 🪙 </h1>
+<h1 align="center"> Conversor de monedas </h1>
 Programa para convertir monedas con las tasas de cambio en tiempo real.
 
 ## 🔨 Funcionalidades del proyecto
