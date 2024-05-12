@@ -6,4 +6,4 @@ Programa para convertir monedas con las tasas de cambio en tiempo real.
 - `Funcionalidad 2`: Historial para guardar tus conversiones.
 
 ## ✔️ Tecnologias utilizadas
-- `Java 7`
+- `Java`
